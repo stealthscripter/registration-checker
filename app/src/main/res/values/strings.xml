@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StMary\'s Official App</string>
+    <string name="title">Welcome to St. Mary\'s Official App</string>
+    <string name="instruction">Please enter your credential below</string>
+    <string name="firstNameLabel">First name</string>
+    <string name="lastNameLabel">Last name</string>
+    <string name="examResultLabel">Exam Result</string>
+    <string name="firstNameHint">Enter your first name</string>
+    <string name="lastNameHint">Enter your last name</string>
+    <string name="resultHint">Enter your Result</string>
+    <string name="submit">Submit</string>
+</resources>
